@@ -23,7 +23,7 @@ sits on top of one. The isolation comes from the OS; what seisin adds is the par
 OS cannot know: which role a path belongs to, and therefore who to ask next.
 `MIT` · [npm](https://www.npmjs.com/package/seisin)
 
-**[audio-booster](https://github.com/carlostapiacl/subele)** ·
+**[audio-booster](https://github.com/carlostapiacl/audio-booster)** ·
 volume boost for macOS without a driver. Uses `AudioHardwareCreateProcessTap` instead
 of the HAL driver every other tool installs, so it never asks for sudo and never
 hijacks your default output. `MIT` · Swift
