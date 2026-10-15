@@ -9,6 +9,5 @@ their code survives, where they get out of a sandbox. The notes are at [carlosta
 - [sandbox-conformance](https://carlostapiacl.github.io/sandbox-conformance/): an open lab that tests agent sandboxes with the tests their own authors wrote.
 - [tartaros](https://github.com/carlostapiacl/tartaros): a local sandbox for coding agents, in Rust.
 - [seisin](https://github.com/carlostapiacl/seisin): gives each agent its own folders and keys. MIT, on npm.
-- [subele](https://github.com/carlostapiacl/subele): turns the macOS volume past 100% without a driver.
 
 [carlostapia.cl](https://carlostapia.cl) · [LinkedIn](https://www.linkedin.com/in/carlostapiaolguin)
